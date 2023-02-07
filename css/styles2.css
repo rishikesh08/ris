@@ -1,0 +1,40 @@
+/******************** TAG SELECTORS ***************/
+
+h1 {color: aqua;}
+
+h1:hover {color: gold;}
+
+ img:hover{ 
+    background-color: gold;
+} 
+
+/******************** CLASS SELECTORS ***************/
+
+.happy_face
+{
+    background-color: red;
+    border:solid;
+    position: relative;
+    left:30px;
+}
+
+.heart
+{
+    background-color: blanchedalmond;
+    border:solid;
+    position: relative;
+    left:60px;
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+
+
+
+/******************** TAG SELECTORS ***************/
+/* #heading {
+    color: blue;
+} 
+
